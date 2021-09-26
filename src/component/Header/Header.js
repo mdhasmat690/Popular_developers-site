@@ -8,7 +8,7 @@ const Header = () => {
         In the world now web development is comon subjsect now new i
         introwduction some people
       </h5>
-      <h2>Meet 8 person in Bangladesh </h2>
+      <h2>Meet 9 person in Bangladesh </h2>
     </div>
   );
 };
