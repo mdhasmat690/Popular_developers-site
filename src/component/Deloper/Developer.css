@@ -1,0 +1,21 @@
+
+
+ .people-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.display-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 10px;
+    grid-gap: 20px;
+    margin-left: 100px;
+}
+.product-container {
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 50px;
+    
+    
+} 

@@ -1,0 +1,28 @@
+.income-contaienr {
+  margin-top: 10px;
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  margin-left: 25px;
+}
+
+.btn-style {
+  background-color: goldenrod;
+  width: 150px;
+  height: 25px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn-purchease:hover {
+  color: red;
+}
+
+.name-container {
+  margin-top: 10px;
+  margin-left: 25px;
+  background-color: aqua;
+  width: 200px;
+}

@@ -1,0 +1,39 @@
+
+
+.cards {
+    background-color: aqua;
+}
+
+.card:hover{
+    transform: scale(1.03);
+    transition: transform 0.5s;
+}
+
+.icon-contaienr {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.btn-purchease {
+    background-color: goldenrod;
+    width: 200px;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn-purchease:hover {
+    color: red;
+}
+.whatsup {
+    font-size: 30px;
+    color: seagreen;
+}
+
+.linkdin{
+    font-size: 30px;
+    color: #1a0dab;
+}
